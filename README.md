@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-![Alt Text](https://media.giphy.com/media/bOfj05MgiHCpeBJA7w/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/puLMScv1HdvVsgumKM/giphy.gif) 
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
